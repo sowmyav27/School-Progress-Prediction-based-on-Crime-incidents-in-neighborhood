@@ -1,4 +1,4 @@
-# Strudent-s-Progress-Prediction-based-on-Crime-incidents-in-neighborhood
+# Student-s-Progress-Prediction-based-on-Crime-incidents-in-neighborhood
 
 
 ## Problem Statement:
